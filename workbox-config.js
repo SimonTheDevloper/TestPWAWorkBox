@@ -12,6 +12,6 @@ module.exports = {
 
     // Der öffentliche Pfad deines Projekts auf GitHub Pages
     "modifyURLPrefix": {
-        "": "/Vokabel-Trainer/"
+        "": "/TestPWAWorkBox/"
     }
 };
