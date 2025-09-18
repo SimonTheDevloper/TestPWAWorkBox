@@ -2,7 +2,7 @@
   "name": "TestPWAmitWorkBOX",
   "short_name": "",
   "description": "TestPWAmitWorkBOX",
-  "start_url": "/",
+  "start_url": "/TestPWAWorkBox/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",

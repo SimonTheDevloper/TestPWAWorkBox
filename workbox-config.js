@@ -8,5 +8,10 @@ module.exports = {
     ],
 
     // Der endgültige Pfad und Dateiname deines Service Workers
-    "swDest": "./service-worker.js"
+    "swDest": "./service-worker.js",
+
+    // Der öffentliche Pfad deines Projekts auf GitHub Pages
+    "modifyURLPrefix": {
+        "": "/Vokabel-Trainer/"
+    }
 };
