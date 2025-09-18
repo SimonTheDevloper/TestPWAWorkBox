@@ -20,6 +20,9 @@
         <p>Dies ist die Startseite.</p>
         <p>Test Das ist neu Hier!</p>
     </main>
+    <button id="install-btn" hidden>
+        📱 Als App installieren
+    </button>
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
@@ -33,6 +36,7 @@
             });
         }
     </script>
+    <script src="pwa-install.js"></script>
 </body>
 
 </html>
